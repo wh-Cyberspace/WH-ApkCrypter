@@ -81,7 +81,7 @@ POWER BY >> WH-Cyberspace
 
 Developer: R47
 
-coeded by : we
+coeded by : WH-Cyberspace
 
                                  Apache License
                            Version 2.0, January 2004
