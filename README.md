@@ -7,6 +7,9 @@
 # 🏳 WH-Cyberspace (WH-ApkCrypter) 🔞
 Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program. Only use for educational purposes. 
 
+
+# N O T E [ don't upload payload inbuilt Antivirus website ]
+
 # ➰ requirements PKG
 
 ☆ Net framework 3.5  [Here  3.5 ]( https://www.microsoft.com/en-us/download/confirmation.aspx?id=21 "Net framework 3.5 ")
