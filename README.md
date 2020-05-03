@@ -5,7 +5,7 @@
 
 <br>
 
-# N O T E [ don't upload payload inbuilt Antivirus website ]
+# NOTE :    [   Don't upload payload inbuilt Antivirus website   ]
 
 <br>
 
