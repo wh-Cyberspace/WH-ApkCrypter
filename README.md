@@ -41,7 +41,7 @@ Usage of WH-Cyberspace Hacking Tool for attacking targets without prior mutual  
 
 4. and open directory
 
-5. now , windows defender turn off real time protection
+5. now , windows defender turn off real time protection [ optional ]
 
 6. and run ( WH-ApkcrypterV1.0.exe )
  
